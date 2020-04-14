@@ -1,0 +1,57 @@
+<Root>
+	<DefaultMacro>
+		<Major></Major>
+		<Description>AUTOGBEXPXSHOT
+</Description>
+		<Comment>AUTOGBEXPXSHOT
+</Comment>
+		<GUIOption>
+			<RepeatType>0</RepeatType>
+		</GUIOption>
+		<KeyUp>
+			<Syntax></Syntax>
+		</KeyUp>
+		<KeyDown>
+			<Syntax>MoveTo 1168 198
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+MoveTo 583 163
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+MoveTo 840 425
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+MoveTo 828 515
+Delay 1000 ms
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+MoveTo 1068 461
+LeftDown 1
+Delay 128 ms
+LeftUp 1
+Delay 128 ms
+GoWhile 1 10
+GoWhile 1 100
+GoWhile 1 1000
+GoWhile 1 10000
+GoWhile 1 100000</Syntax>
+		</KeyDown>
+		<Software>AUTOGBEXPXSHOT
+</Software></DefaultMacro>
+</Root>

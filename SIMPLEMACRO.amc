@@ -1,0 +1,26 @@
+<Root>
+	<DefaultMacro>
+		<Major></Major>
+		<Description></Description>
+		<Comment></Comment>
+		<GUIOption>
+			<RepeatType>2</RepeatType>
+		</GUIOption>
+		<KeyUp>
+			<Syntax></Syntax>
+		</KeyUp>
+		<KeyDown>
+			<Syntax>MoveTo 342 494
+DelayS 1 s
+LeftDown 1
+DelayS 1 s
+LeftUp 1
+DelayS 1 s
+KeyDown 40 1
+DelayS 2 s
+KeyUp 40 1
+DelayS 2 s</Syntax>
+		</KeyDown>
+		<Software>GB 
+</Software></DefaultMacro>
+</Root>
